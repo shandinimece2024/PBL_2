@@ -1,0 +1,13 @@
+To convert them back into ONE file
+
+After downloading all 11 files, put them in the same folder.
+
+Open Command Prompt in that folder and run this single command:
+
+copy /b sentinal.part00+sentinal.part01+sentinal.part02+sentinal.part03+sentinal.part04+sentinal.part05+sentinal.part06+sentinal.part07+sentinal.part08+sentinal.part09+sentinal.part10 sentinal.rar
+
+It will create:
+
+sentinal.rar
+
+Then right-click sentinal.rar → Extract Here using WinRAR or 7-Zip.
